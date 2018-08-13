@@ -1,6 +1,6 @@
 # iotcore-heartrate
 
-This project contains the code necessary to setup either (1) a Raspberry Pi with a heart rate sensor or (2) a Google Cloud Compute Engine VM with a data simulation script in order to demonstrate how Google Cloud IoT Core works. The full instructions are contained this Codelab (https://http://g.co/codelabs/iotcore-heartrate). The instructions below provide the glcoud commands which are parallel to the Cloud Console UI instructions that are given in the Codelab.
+This project contains the code necessary to setup either (1) a Raspberry Pi with a heart rate sensor or (2) a Google Cloud Compute Engine VM with a data simulation script in order to demonstrate how Google Cloud IoT Core works. The full instructions are contained this Codelab (https://http://g.co/codelabs/iotcore-heartrate). The instructions below provide the gcloud commands which are parallel to the Cloud Console UI instructions that are given in the Codelab.
 
 ## Data Simulation Quickstart
 
